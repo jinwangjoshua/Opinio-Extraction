@@ -26,9 +26,15 @@ The null hypothesis is that there is no difference between accuracies between th
 
 |  Product_id |  accuracy(word2vec) |  accuracy(glove) | difference  | 
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| 0 | 0.92 | 0.91 | 0.01 |
+| 1 | 0.91 | 0.91 | 0.01 |
+| 2 | 0.87 | 0.90 | -0.04 |
+| 3 | 0.85 | 0.87 | -0.02 |
+| 4 | 0.90 | 0.88 | 0.02 |
+| 5 | 0.89 | 0.91 | -0.02 |
+| 6 | 0.80 | 0.87 | -0.07 |
+| 7 | 0.91 | 0.86 | 0.05 |
+| 8 | 0.91 | 0.86 | 0.05 |
 
 ## 4. Visualization
 ![](https://github.com/jinwangjoshua/Opinio-Extraction/blob/master/results/word2vec/product_5_wordcloud.png)
