@@ -18,6 +18,9 @@ This is the explanation for all the files in this repo.
 Codes/paper citations, and detailed codes explanation are in the work_proflio.ipynb jupyter notebook.
 
 ## 3. Results Evaluation and Conclusion supported by data
+    After performing evaluations on the KMeans clustering model on both word2vec and glove embeddings, Table 2 the semantic accuracies reviews opinions clusters from nine products. And we can find finally the model got an averaged accuracies are % for word2vec and % for glove embedding. Now we  need to check if the two models have some difference. 
+    Total there will be nine pairs of data point, after power analysis, when the effect size is 1.4, and significance level of 0.05, we can be 80% claim our experiments are reliable. 
+    The null hypothesis is that there is no difference between accuracies between the two methods, while the alternative hypothesis is there is some difference. Statics of paired sample t test will be utilized here. After assumption check and hypothesis test, we got the p-value of 0.936, which is much larger than 0.05, the significance level, so that we do not reject null hypothesis and conclude that there is no significant difference between the accuracies between clustering models based on word2vec and glove embeddings.
 
 
 ## 4. Visualization
