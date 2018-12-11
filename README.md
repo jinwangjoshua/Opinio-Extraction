@@ -1,6 +1,6 @@
 # Opinio-Extraction
 
-## 0.This is the explanation for all the files in this repo.
+## 0.Explanation for all the files in this repo.
 
 - reviews folder: folder contains all original reviews data of nine products.
 - results folder: folders contain all clustered data and visualization data for each model.
@@ -89,7 +89,7 @@ Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks, page
 [10]MacQueen, J., 1967, June. Some methods for classification and analysis of multivariate observations. In Proceedings of the fifth Berkeley symposium on mathematical statistics and probability (Vol. 1, No. 14, pp. 281-297).
 
 ## Environment:
- -Linux 16.04
+ - Linux 16.04
 - Python 3.6
 - Jupyter Notebook
 
