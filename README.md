@@ -23,7 +23,7 @@ This step is very important for the whole work. The purpose of this work is to o
 After improving the method in [3, 4], also because the reviews’ grammar and syntax are very informal in this problem, we made 45 rules to extract the opinions, and a sample of them are list below in Table 1. 
 Table 1: Example of POS combinations
 | Rules of POS Combinations |  Examples |
-|---|---|---|---|
+|---|---|
 | NOUN VERB ADJ | tank look large |
 | ADJ NOUN | cheap material |
 | ADJ CCONJ ADJ NOUN | quick and easy brew |
